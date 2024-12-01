@@ -23,7 +23,7 @@ This project allows me to water multiple house plants at home in a more granular
 ### Hardware
 - Arduino C
 - Capacitative Soil Moisture Sensor
-- ESP32
+- ESP32 Microcontroller
 - Water Pump
 
 # Future Enhancement
