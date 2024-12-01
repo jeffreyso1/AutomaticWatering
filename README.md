@@ -2,6 +2,9 @@
 
 <img src="./circuit.png" width="70%">
 
+Top: Moisture sensor 
+Right: Water Pump
+
 ### What
 This project attempts to track moisture level in the soil using a moisture sensor. 
 And water plant when moisture level is lower than a threshold.
