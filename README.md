@@ -3,6 +3,7 @@
 <img src="./circuit.png" width="70%">
 
 Top: Moisture sensor 
+
 Right: Water Pump
 
 ### What
